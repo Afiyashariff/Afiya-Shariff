@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afiya Shariff</h1>
-<h3 align="center">A programmer from India</h3>
+<h3 align="center">A Programmer From India</h3>
 <img align="right" alt="coding" width="450" src="https://tse2.mm.bing.net/th?id=OIP.2CS1EIxYnK4Q5Hi4YNQeTwHaFj&pid=Api&P=0&h=220.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afiyashariff&label=Profile%20views&color=0e75b6&style=flat" alt="afiyashariff" /> </p>
